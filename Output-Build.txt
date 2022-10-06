@@ -1,0 +1,25 @@
+﻿Build started...
+1>------ Build started: Project: Zombie Arena, Configuration: Debug Win32 ------
+1>Zombie Arena.cpp
+1>C:\Program Files (x86)\VS projects\Zombie Arena\Zombie Arena.cpp(11,47): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+1>        with
+1>        [
+1>            T=float
+1>        ]
+1>C:\Program Files (x86)\VS projects\Zombie Arena\Zombie Arena.cpp(12,47): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+1>        with
+1>        [
+1>            T=float
+1>        ]
+1>C:\Program Files (x86)\VS projects\Zombie Arena\Zombie Arena.cpp(14,59): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+1>        with
+1>        [
+1>            T=float
+1>        ]
+1>C:\Program Files (x86)\VS projects\Zombie Arena\Zombie Arena.cpp(14,45): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+1>        with
+1>        [
+1>            T=float
+1>        ]
+1>Done building project "Zombie Arena.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
